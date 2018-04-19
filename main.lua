@@ -1,7 +1,12 @@
 -----------------------------------------------------------------------------------------
 --
--- main.lua
+-- main.Lua
 --
+-- a guy moves
+--
+--
+-- Created by: Fawaz Mezher
+-- Created on: March 2018 
 -----------------------------------------------------------------------------------------
 
 local cowboy = display.newImageRect( "./assets/sprites/cowboy.png", 539, 495 )
